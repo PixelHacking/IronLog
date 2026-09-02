@@ -4,7 +4,7 @@
 // ============================================================
 window.SUPABASE_CONFIG = {
   url: "https://TUO-PROGETTO.supabase.co",
-  anonKey: "INCOLLA_QUI_LA_TUA_ANON_KEY"
+  anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imttbmt6emR6eGdjeGRhbHlydGRlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODgyNTc5MjMsImV4cCI6MjEwMzgzMzkyM30.JNb4XB5ZbPcpf2qmRYb-5zNancMkUYd-4atEAl2DrkM"
 };
 
 // L'email con cui accedi TU come amministratore: deve coincidere
